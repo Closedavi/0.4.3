@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Gameplay',
+    'O que é o Metamorfo em among-us?',
+    'é uma função do assasino que o ajuda durante a game play, ela possibilita trocar de"roupa e de cor" para se desfarças dos inocentes e causar confusão entra os jogadores'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'GAMEPLAY',
+    'Qual são os rankes do Rockte league?',
+    ' Começando pelo BRONZE,PRATA,OURO,DIAMANTE,CHAMPION,GRAN CHAMPION,SUPER SONIC LEGEND'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'GAMEPLAY',
+    'Qual o melhor brawler para se começar a subir de level em Brawl Stars?',
+    'A Jessie, sendo uma brawler super facil de usar com um dano e vida altos e com a ult muito simples '
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'GAMEPLAY',
+    'Qual a melhor arma a curta distancia em Counter-strike?',
+    'A curta e a media distancia a AK-47 se encaixa muito bem nesse papel porem a uma dificuldade de usala por ser uma arma que não eh tão precisa em longos disparos'
 )
