@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'GAMEPLAY',
     'Qual são os rankes do Rockte league?',
-    'Começando pelo BRONZE, PRATA, OURO, DIAMANTE, CHAMPION, GRAN CHAMPION, SUPER SONIC LEGEND'
+    'Começando pelo bronze, prata, ouro, diamante, champion, gran champion, super sonic legend'
 )
 
 criaCartao(
