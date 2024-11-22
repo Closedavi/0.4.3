@@ -5,14 +5,12 @@
 }
 
 body {
-    background: background: linear-gradient(45deg,
-    #FF0000, #FFA500, #FFFF00, #00FF00, 
-    #008000, #00FFFF, #0000FF, #4B0082, 
-    #8A2BE2, #FF1493, #FFB6C1, #808080, 
-    #C0C0C0, #FFD700, #8B4513, #000000);
+    background: linear-gradient(45deg, #FF0000, #FFA500, #FFFF00, #00FF00, #008000, #00FFFF, #0000FF, #4B0082, #8A2BE2, #FF1493, #FFB6C1, #808080, #C0C0C0, #FFD700, #8B4513, #000000);
  background-size: 300% 300%
 animation: gradientanimation 5s ease infinite;
     font-family: Bai Jamjuree;
+    margin: 0;
+    padding: 0;
 }
 
 #container {
